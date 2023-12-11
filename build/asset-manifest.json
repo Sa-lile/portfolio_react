@@ -1,28 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.5025d402.css",
-    "main.js": "/static/js/main.996ab4f7.js",
-    "static/media/header_backgrand.jpg": "/static/media/header_backgrand.afe328bec0aed213e433.jpg",
-    "static/media/AnimationJS_GreenSock3.png": "/static/media/AnimationJS_GreenSock3.bfadd0982f4e199bb692.png",
-    "static/media/site_vin.png": "/static/media/site_vin.d395b61d65c5029dc504.png",
-    "static/media/projet d'Udemy_Kyoto.png": "/static/media/projet d'Udemy_Kyoto.4b1cc20b2b323560a81b.png",
-    "static/media/animation_js.png": "/static/media/animation_js.342e82148141be46b7e1.png",
-    "static/media/site_ventePlante.png": "/static/media/site_ventePlante.7043e0714c3eec2f4491.png",
-    "static/media/CV_Sachiyo_SABLE.pdf": "/static/media/CV_Sachiyo_SABLE.712c7f155c3ca7a82096.pdf",
-    "static/media/glaceCard.png": "/static/media/glaceCard.64409ad5cfe811d6e591.png",
-    "static/media/infoschool.png": "/static/media/infoschool.bddaf67752d101930ca2.png",
-    "static/media/AccueilAnima_greensock2.png": "/static/media/AccueilAnima_greensock2.ebe0c9a5f4733cf452d5.png",
-    "static/media/Formulaire_PHP.png": "/static/media/Formulaire_PHP.674cbed03f8426b970e4.png",
-    "static/media/services_img_1.svg": "/static/media/services_img_1.387471ba5d63250a65204770f1628c6d.svg",
-    "static/media/services_img_4.svg": "/static/media/services_img_4.9c6e262d0d477c6ab3e6751c89cb89bf.svg",
-    "static/media/services_img_3.svg": "/static/media/services_img_3.6085851215ce21e8e1af1cd7532f62b3.svg",
-    "static/media/services_img_2.svg": "/static/media/services_img_2.c4c4a3c1d29dc9b62ae991c422b53011.svg",
-    "index.html": "/index.html",
-    "main.5025d402.css.map": "/static/css/main.5025d402.css.map",
-    "main.996ab4f7.js.map": "/static/js/main.996ab4f7.js.map"
+    "main.css": "/my_app/static/css/main.6fd1b1a2.css",
+    "main.js": "/my_app/static/js/main.0a88c1ec.js",
+    "static/media/header_backgrand.jpg": "/my_app/static/media/header_backgrand.afe328bec0aed213e433.jpg",
+    "static/media/AnimationJS_GreenSock3.png": "/my_app/static/media/AnimationJS_GreenSock3.bfadd0982f4e199bb692.png",
+    "static/media/site_vin.png": "/my_app/static/media/site_vin.d395b61d65c5029dc504.png",
+    "static/media/projet d'Udemy_Kyoto.png": "/my_app/static/media/projet d'Udemy_Kyoto.4b1cc20b2b323560a81b.png",
+    "static/media/Site_resto.png": "/my_app/static/media/Site_resto.7c01d7535b87df2de313.png",
+    "static/media/animation_js.png": "/my_app/static/media/animation_js.342e82148141be46b7e1.png",
+    "static/media/site_ventePlante.png": "/my_app/static/media/site_ventePlante.7043e0714c3eec2f4491.png",
+    "static/media/CV_Sachiyo_SABLE.pdf": "/my_app/static/media/CV_Sachiyo_SABLE.712c7f155c3ca7a82096.pdf",
+    "static/media/glaceCard.png": "/my_app/static/media/glaceCard.64409ad5cfe811d6e591.png",
+    "static/media/infoschool.png": "/my_app/static/media/infoschool.bddaf67752d101930ca2.png",
+    "static/media/AccueilAnima_greensock2.png": "/my_app/static/media/AccueilAnima_greensock2.ebe0c9a5f4733cf452d5.png",
+    "static/media/subscribe_background.jpeg": "/my_app/static/media/subscribe_background.9055a9d94386e2c448c7.jpeg",
+    "static/media/Formulaire_PHP.png": "/my_app/static/media/Formulaire_PHP.674cbed03f8426b970e4.png",
+    "static/media/services_img_1.svg": "/my_app/static/media/services_img_1.387471ba5d63250a65204770f1628c6d.svg",
+    "static/media/services_img_4.svg": "/my_app/static/media/services_img_4.9c6e262d0d477c6ab3e6751c89cb89bf.svg",
+    "static/media/services_img_3.svg": "/my_app/static/media/services_img_3.6085851215ce21e8e1af1cd7532f62b3.svg",
+    "static/media/services_img_2.svg": "/my_app/static/media/services_img_2.c4c4a3c1d29dc9b62ae991c422b53011.svg",
+    "index.html": "/my_app/index.html",
+    "main.6fd1b1a2.css.map": "/my_app/static/css/main.6fd1b1a2.css.map",
+    "main.0a88c1ec.js.map": "/my_app/static/js/main.0a88c1ec.js.map"
   },
   "entrypoints": [
-    "static/css/main.5025d402.css",
-    "static/js/main.996ab4f7.js"
+    "static/css/main.6fd1b1a2.css",
+    "static/js/main.0a88c1ec.js"
   ]
 }

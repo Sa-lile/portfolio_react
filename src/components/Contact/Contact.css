@@ -1,8 +1,14 @@
+.contact-section{
+    
+}
+.section-title {
+    margin-top: 0;
+    padding-top: 0;
+}
 .contact-form{
-    max-width: 450px;
+    max-width: 400px;
     margin: 0 auto;
     align-self: center;
-    
 }
 p.text {
     margin-top: 1rem;

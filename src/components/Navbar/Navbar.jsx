@@ -30,12 +30,12 @@ export const Navbar = () => {
                     to="/"
                     className="nav-link text-uppercase fw-7 text-white ls-2 fs-22"
                   >
-                    Home
+                    Accueil
                   </Link>
                 </li>
                 <li className="nav-item">
                   <NavLink
-                    to="/parcours"
+                    to="/services"
                     className="nav-link text-uppercase fw-7 text-white ls-2 fs-22"
                   >
                     Parcours
@@ -43,6 +43,7 @@ export const Navbar = () => {
                 </li>
                 <li className="nav-item">
                   <NavLink
+                    a href="Portfolio.jsx"
                     to="/portfolio"
                     className="nav-link text-uppercase fw-7 text-white ls-2 fs-22"
                   >Portfolio

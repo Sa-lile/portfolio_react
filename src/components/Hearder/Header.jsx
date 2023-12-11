@@ -4,12 +4,13 @@ import Navbar from '../Navbar/Navbar';
 import { Link } from 'react-router-dom';
 import Contact from '../Contact/Contact';
 import { FaEnvelope, FaGithub, FaLinkedin, } from 'react-icons/fa';
+import  Services from '../Services/Services';
 
 
 const Header = () => {
 
   const handleClick = () => {
-    <Contact />
+    <Services />    
    }
   
   return (
@@ -21,9 +22,11 @@ const Header = () => {
             <h3 className='header-title text-white fw-6 '>BONJOUR, JE SUIS</h3>
             <h3 className='header-title text-white fw-6 '> <span className='text-orange'> Développeur Web Full Stack</span></h3>
             <div className='btn-groups flex'>
+            <Link to="/work" onClick={handleClick}>
             <button type = "button" className='btn-item bg-brown fw-4 ls-2'>Voir mes projets</button>
-            <Link to="/contact" onClick={handleClick}>
-            <button type = "button" className='btn-item bg-dark fw-4 ls-2'>Contacter à moi</button>
+            </Link>
+            <Link to="/services" onClick={handleClick}>
+            <button type = "button" className='btn-item bg-dark fw-4 ls-2'>À props de moi</button>
             </Link>
             </div>
 

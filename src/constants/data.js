@@ -72,7 +72,7 @@ const works = [
     },
     {
         image: `${images.work_img_7}`,
-        title: "Mon projet personnel",
+        title: "Stage 2023 : Autoformation",
         comment: "Fil rouge vente plante : React",
         site: "",
         git: "https://github.com/Sa-lile/Fil_rouge_vente_plantes"
@@ -82,10 +82,24 @@ const works = [
         title: "Stage 2023 : Autoformation",
         comment: "Formulaire : PHP",
         site: "",
-        git:"https://github.com/Sa-lile/TutorielPHP_grafikart",
+        git:"https://github.com/Sa-lile/project-udemy-formPHP",
     },
     {
         image: `${images.work_img_9}`,
+        title: "Mon projet personnel",
+        comment: "Site de restaurant : Mon prémier site",   
+        site: "https://sa-lile.github.io/ExoNum1_resto/",
+        git:"https://github.com/Sa-lile/ExoNum1_resto",
+    },
+    {
+        image: `${images.work_img_10}`,
+        title: "Mon projet personnel",
+        comment: "To do list : Python3 & React",   
+        site: "",
+        git:"https://github.com/Sa-lile/Todo-List_python_react",
+    },
+    {
+        image: `${images.work_img_11}`,
         title: "Mon projet personnel",
         comment: "Site web resposive avec : Bootstrap4",   
         site: "",

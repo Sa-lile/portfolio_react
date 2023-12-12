@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.66e611ec.css",
-    "main.js": "/static/js/main.29a8bd7c.js",
+    "main.css": "/static/css/main.d37f70a4.css",
+    "main.js": "/static/js/main.aa841a6b.js",
     "static/media/header_backgrand.jpg": "/static/media/header_backgrand.afe328bec0aed213e433.jpg",
     "static/media/AnimationJS_GreenSock3.png": "/static/media/AnimationJS_GreenSock3.bfadd0982f4e199bb692.png",
     "static/media/site_vin.png": "/static/media/site_vin.d395b61d65c5029dc504.png",
@@ -9,22 +9,22 @@
     "static/media/Site_resto.png": "/static/media/Site_resto.7c01d7535b87df2de313.png",
     "static/media/animation_js.png": "/static/media/animation_js.342e82148141be46b7e1.png",
     "static/media/site_ventePlante.png": "/static/media/site_ventePlante.7043e0714c3eec2f4491.png",
+    "static/media/text-coming-soon.jpg": "/static/media/text-coming-soon.b92eac5c10e43497561a.jpg",
     "static/media/CV_Sachiyo_SABLE.pdf": "/static/media/CV_Sachiyo_SABLE.712c7f155c3ca7a82096.pdf",
     "static/media/glaceCard.png": "/static/media/glaceCard.64409ad5cfe811d6e591.png",
     "static/media/infoschool.png": "/static/media/infoschool.bddaf67752d101930ca2.png",
     "static/media/AccueilAnima_greensock2.png": "/static/media/AccueilAnima_greensock2.ebe0c9a5f4733cf452d5.png",
-    "static/media/subscribe_background.jpeg": "/static/media/subscribe_background.9055a9d94386e2c448c7.jpeg",
     "static/media/Formulaire_PHP.png": "/static/media/Formulaire_PHP.674cbed03f8426b970e4.png",
     "static/media/services_img_1.svg": "/static/media/services_img_1.387471ba5d63250a65204770f1628c6d.svg",
     "static/media/services_img_4.svg": "/static/media/services_img_4.9c6e262d0d477c6ab3e6751c89cb89bf.svg",
     "static/media/services_img_3.svg": "/static/media/services_img_3.6085851215ce21e8e1af1cd7532f62b3.svg",
     "static/media/services_img_2.svg": "/static/media/services_img_2.c4c4a3c1d29dc9b62ae991c422b53011.svg",
     "index.html": "/index.html",
-    "main.66e611ec.css.map": "/static/css/main.66e611ec.css.map",
-    "main.29a8bd7c.js.map": "/static/js/main.29a8bd7c.js.map"
+    "main.d37f70a4.css.map": "/static/css/main.d37f70a4.css.map",
+    "main.aa841a6b.js.map": "/static/js/main.aa841a6b.js.map"
   },
   "entrypoints": [
-    "static/css/main.66e611ec.css",
-    "static/js/main.29a8bd7c.js"
+    "static/css/main.d37f70a4.css",
+    "static/js/main.aa841a6b.js"
   ]
 }

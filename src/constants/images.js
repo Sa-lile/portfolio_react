@@ -11,7 +11,7 @@ import work_img_6 from "../assets/images/AccueilAnima_greensock2.png";
 import work_img_7 from "../assets/images/site_ventePlante.png";
 import work_img_8 from "../assets/images/Formulaire_PHP.png";
 import work_img_9 from "../assets/images/Site_resto.png";
-import work_img_10 from "../assets/images/subscribe_background.jpeg";
+import work_img_10 from "../assets/images/text-coming-soon.jpg";
 import work_img_11 from "../assets/images/infoschool.png";
 
 

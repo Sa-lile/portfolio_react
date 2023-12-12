@@ -34,6 +34,7 @@ export const Navbar = () => {
                 </li>
                 <li className="nav-item">
                   <NavLink
+                    a href="#services"
                     to="/services"
                     className="nav-link text-uppercase fw-7 text-white ls-2 fs-22"
                   >

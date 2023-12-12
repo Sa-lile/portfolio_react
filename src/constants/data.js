@@ -74,7 +74,7 @@ const works = [
         image: `${images.work_img_7}`,
         title: "Stage 2023 : Autoformation",
         comment: "Fil rouge vente plante : React",
-        site: "",
+        site: "https://la-maison-jungle-ten.vercel.app/",
         git: "https://github.com/Sa-lile/Fil_rouge_vente_plantes"
     },
     {

@@ -2,10 +2,8 @@ import React from 'react';
 import "./Header.css";
 import Navbar from '../Navbar/Navbar';
 import { Link } from 'react-router-dom';
-// import Contact from '../Contact/Contact';
 import { FaEnvelope, FaGithub, FaLinkedin, } from 'react-icons/fa';
 import  Services from '../Services/Services';
-// import App from '../../App';
 
 
 const Header = () => {
@@ -23,10 +21,10 @@ const Header = () => {
             <h3 className='header-title text-white fw-6 '>BONJOUR, JE SUIS</h3>
             <h3 className='header-title text-white fw-6 '> <span className='text-orange'> Développeur Web Full Stack</span></h3>
             <div className='btn-groups flex'>
-            <Link to="/work" onClick={handleClick}>
+            <Link to="/portfolio" >
             <button type = "button" className='btn-item bg-brown fw-4 ls-2'>Voir mes projets</button>
             </Link>
-            <Link to="/services" onClick={handleClick}>
+            <Link to="/services" >
             <button type = "button" className='btn-item bg-dark fw-4 ls-2'>Mon parcours</button>
             </Link>
             </div>

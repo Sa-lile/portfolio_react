@@ -1,6 +1,6 @@
 import React from "react";
 import "./Navbar.css";
-import { Link, NavLink } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { FaBars, FaTimes } from "react-icons/fa";
 import { useState } from "react";
 
@@ -23,9 +23,12 @@ export const Navbar = () => {
               onClick={closeNavbar}>
                 <FaTimes size={30}></FaTimes>
               </button>
+
+              <nav>
               <ul className="navbar-nav">
                 <li className="nav-item">
                   <Link
+                    //  a href="/"
                     to="/"
                     className="nav-link text-uppercase fw-7 text-white ls-2 fs-22"
                   >
@@ -33,31 +36,27 @@ export const Navbar = () => {
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <NavLink
-                    a href="#services"
-                    to="/services"
+                  <Link to="/services"
                     className="nav-link text-uppercase fw-7 text-white ls-2 fs-22"
                   >
                     Parcours
-                  </NavLink>
+                  </Link>
                 </li>
                 <li className="nav-item">
-                  <NavLink
-                    a href="Portfolio.jsx"
-                    to="/portfolio"
+                  <Link to="/portfolio"
                     className="nav-link text-uppercase fw-7 text-white ls-2 fs-22"
                   >Portfolio
-                  </NavLink>
+                  </Link>
                 </li>
                 <li className="nav-item">
-                  <Link
-                    to="/contact"
+                  <Link to="/contact"
                     className="nav-link text-uppercase fw-7 text-white ls-2 fs-22"
                   >
                     Contact
                   </Link>
                 </li>
               </ul>
+              </nav>
             </div>
           </div>
         </div>

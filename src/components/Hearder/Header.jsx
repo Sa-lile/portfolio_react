@@ -2,9 +2,10 @@ import React from 'react';
 import "./Header.css";
 import Navbar from '../Navbar/Navbar';
 import { Link } from 'react-router-dom';
-import Contact from '../Contact/Contact';
+// import Contact from '../Contact/Contact';
 import { FaEnvelope, FaGithub, FaLinkedin, } from 'react-icons/fa';
 import  Services from '../Services/Services';
+// import App from '../../App';
 
 
 const Header = () => {
@@ -26,7 +27,7 @@ const Header = () => {
             <button type = "button" className='btn-item bg-brown fw-4 ls-2'>Voir mes projets</button>
             </Link>
             <Link to="/services" onClick={handleClick}>
-            <button type = "button" className='btn-item bg-dark fw-4 ls-2'>À props de moi</button>
+            <button type = "button" className='btn-item bg-dark fw-4 ls-2'>Mon parcours</button>
             </Link>
             </div>
 

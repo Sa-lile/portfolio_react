@@ -35,7 +35,7 @@ const Work = ()=> {
             </h3>
             <p className="text">
               Voici mes réalisations effectuées pendant la formation de
-              Développeur web/web moble en 2022, <br />
+              Développeur web/web mobile en 2022, <br />
               le contrat d'alternance un an en 2023 et mes
               projets personnels
             </p>

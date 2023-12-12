@@ -35,11 +35,10 @@ const Work = ()=> {
             </h3>
             <p className="text">
               Voici mes réalisations effectuées pendant la formation de
-              Développeur web/web mobile en 2022, <br />
-              le contrat d'alternance un an en 2023 et mes
-              projets personnels
+              Développeur web/web mobile en 2022, <br /> durant  
+              le contrat d'alternance en 2023 et mes projets personnels
             </p>
-            <p className="text">N’hésitez pas à consulter d'autre mes réalisations sur mon GitHub :  
+            <p className="text">N’hésitez pas à consulter mes autres réalisations sur mon GitHub :  
         <a href = "https://github.com/Sa-lile" className='text-black'><FaGithub /></a></p> 
           </div>
         </div>

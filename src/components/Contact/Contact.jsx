@@ -26,7 +26,7 @@ const Contact = () => {
         <div className='contact-section'>
             <div className='section-title'>
                 <h3 className='text-brown'>contact<span className='text-dark'></span></h3>
-                <div className='text'>Vous pouvez me contacter. email : sachiyo.sable@gmail.com</div>
+                <div className='text'>Vous pouvez me contacter par email : sachiyo.sable@gmail.com</div>
             </div>
         </div>
 

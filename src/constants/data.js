@@ -11,7 +11,7 @@ const services = [
         id:2,
         image: `${images.services_img_3}`,
         title: "Formation",
-        paragraph: "J'ai obtenu un diplôme en gestion hôtelière. En 2021, j'ai suivi une formation de projet professionnel et réalisé un stage de cinq semaines en Web design. En 2022, j'ai obtenu mon diplôme de Développeur web et web mobile (niveau bac+2) après une formation chez LDNR. Actuellement, en 2023, je suis en contrat d'alternance chez Prooftag et en voie d'obtenir mon diplôme de Concepteur développeur d'applications (niveau bac+3/4).",
+        paragraph: "J'ai obtenu un diplôme en gestion hôtelière au Japon en 1998. Suite à une reconversion professionnelle, j'ai décidé en 2021, de suivre une formation et réalisé un stage de cinq semaines en Web design. En 2022, j'ai obtenu mon diplôme de Développeur web et web mobile (niveau bac+2) après une formation chez LDNR. Actuellement, en 2023, je suis en contrat d'alternance chez Prooftag et en voie d'obtenir mon diplôme de Concepteur développeur d'applications (niveau bac+3/4).",
     },
     {
         id:3,
@@ -23,7 +23,7 @@ const services = [
         id:4,
         image: `${images.services_img_4}`,
         title: "Qualités",
-        paragraph:  "Je suis une personne créative passionnée par la décoration. Ma rigueur et mon organisation se manifestent à travers la définition d'objectifs hebdomadaires et annuels. Ma motivation est forte, alimentée par le désir constant d'améliorer mes compétences.",
+        paragraph:  "Je suis une personne créative et passionnée par la décoration. Je suis rigoureuse et organisée, car je me fixe des objectifs toutes les semaines et chaque année. Ma motivation est forte, alimentée par le désir constant d'améliorer mes compétences.",
     },
 ];
 

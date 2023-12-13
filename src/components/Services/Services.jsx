@@ -17,10 +17,10 @@ const Services = () => {
             </h3>
             <p className="text">
               Je vous presente mon parcours. <br />
-              Voici mon CV{" "}
+              {/* Voici mon CV{" "}
               <a href={cvFilePath} target="_blank" rel="noopener noreferrer">
                 <FaFileAlt />
-              </a>
+              </a> */}
             </p>
           </div>
 

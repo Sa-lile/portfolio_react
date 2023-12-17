@@ -101,10 +101,24 @@ const works = [
     {
         image: `${images.work_img_11}`,
         title: "Mon projet personnel",
-        comment: "Site web resposive avec : Bootstrap4",   
-        site: "",
-        git:"https://github.com/Sa-lile/Bootstrap_infoSchool",
+        comment: "E-commerce",   
+        site: "https://sa-lile.github.io/Cours_Carte-e-commerce/",
+        git:"https://github.com/Sa-lile/Cours_Carte-e-commerce",
     },
+    {
+        image: `${images.work_img_12}`,
+        title: "Mon projet personnel",
+        comment: "Rosace : JS",   
+        site: "https://sa-lile.github.io/304_Rosace/",
+        git:"https://github.com/Sa-lile/304_Rosace",
+    },
+    // {
+    //     image: `${images.work_img_11}`,
+    //     title: "Mon projet personnel",
+    //     comment: "Site web resposive avec : Bootstrap4",   
+    //     site: "",
+    //     git:"https://github.com/Sa-lile/Bootstrap_infoSchool",
+    // },
 ];
 const loisirs = [
     {

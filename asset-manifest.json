@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7e3e707c.css",
-    "main.js": "/static/js/main.06bfa453.js",
+    "main.js": "/static/js/main.befb4fa4.js",
     "static/media/header_backgrand.jpg": "/static/media/header_backgrand.afe328bec0aed213e433.jpg",
     "static/media/AnimationJS_GreenSock3.png": "/static/media/AnimationJS_GreenSock3.bfadd0982f4e199bb692.png",
     "static/media/site_vin.png": "/static/media/site_vin.d395b61d65c5029dc504.png",
@@ -15,17 +15,17 @@
     "static/media/glaceCard.png": "/static/media/glaceCard.64409ad5cfe811d6e591.png",
     "static/media/AccueilAnima_greensock2.png": "/static/media/AccueilAnima_greensock2.ebe0c9a5f4733cf452d5.png",
     "static/media/Formulaire_PHP.png": "/static/media/Formulaire_PHP.674cbed03f8426b970e4.png",
-    "static/media/todo_liste.png": "/static/media/todo_liste.a56df43a09fc57e9f4d1.png",
+    "static/media/todo_liste.png": "/static/media/todo_liste.cf35713bef57fe831344.png",
     "static/media/services_img_1.svg": "/static/media/services_img_1.387471ba5d63250a65204770f1628c6d.svg",
     "static/media/services_img_4.svg": "/static/media/services_img_4.9c6e262d0d477c6ab3e6751c89cb89bf.svg",
     "static/media/services_img_3.svg": "/static/media/services_img_3.6085851215ce21e8e1af1cd7532f62b3.svg",
     "static/media/services_img_2.svg": "/static/media/services_img_2.c4c4a3c1d29dc9b62ae991c422b53011.svg",
     "index.html": "/index.html",
     "main.7e3e707c.css.map": "/static/css/main.7e3e707c.css.map",
-    "main.06bfa453.js.map": "/static/js/main.06bfa453.js.map"
+    "main.befb4fa4.js.map": "/static/js/main.befb4fa4.js.map"
   },
   "entrypoints": [
     "static/css/main.7e3e707c.css",
-    "static/js/main.06bfa453.js"
+    "static/js/main.befb4fa4.js"
   ]
 }

@@ -79,10 +79,10 @@ const works = [
     },
     {
         image: `${images.work_img_8}`,
-        title: "Stage 2023 : Autoformation",
-        comment: "Formulaire : PHP",
-        site: "",
-        git:"https://github.com/Sa-lile/project-udemy-formPHP",
+        title: "Mon projet personnel",
+        comment: "App : Python & Streamlit",
+        site: "https://appexo-sa-lile.streamlit.app/",
+        git:"https://github.com/Sa-lile/streamlit_exo",
     },
     {
         image: `${images.work_img_9}`,
@@ -118,6 +118,13 @@ const works = [
     //     comment: "Site web resposive avec : Bootstrap4",   
     //     site: "",
     //     git:"https://github.com/Sa-lile/Bootstrap_infoSchool",
+    // },
+    // {
+    //     image: `${images.work_img_8}`,
+    //     title: "Stage 2023 : Autoformation",
+    //     comment: "Formulaire : PHP",
+    //     site: "",
+    //     git:"https://github.com/Sa-lile/project-udemy-formPHP",
     // },
 ];
 const loisirs = [

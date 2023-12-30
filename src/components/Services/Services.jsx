@@ -2,12 +2,12 @@ import React from "react";
 import "./Services.css";
 import { services } from "../../constants/data";
 import { FaFileAlt } from "react-icons/fa";
+// import { Document, Page } from "react-pdf";
 
 const Services = () => {
-  const cvFilePath = '../assets/images/CV_Sachiyo_SABLE.pdf';
+  const cvFilePath = "./src/assets/images/CV_Sachiyo_S.pdf";
 
   return (
-
     <div className="services section-p" id="services">
       <div className="container">
         <div className="services-content">
@@ -17,10 +17,18 @@ const Services = () => {
             </h3>
             <p className="text">
               Je vous presente mon parcours. <br />
-              {/* Voici mon CV{" "}
-              <a href={cvFilePath} target="_blank" rel="noopener noreferrer">
+              Voici mon CV{" "}
+              {/* <Document file={cvFilePath}>
+                <Page pageNumber={1} />
                 <FaFileAlt />
-              </a> */}
+              </Document> */}
+              <a
+                href= {cvFilePath}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <FaFileAlt />
+              </a>
             </p>
           </div>
 
@@ -43,6 +51,6 @@ const Services = () => {
       </div>
     </div>
   );
-}
+};
 
 export default Services;

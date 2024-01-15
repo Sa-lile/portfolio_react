@@ -17,10 +17,10 @@ import work_img_12 from "../assets/images/Rosace.png";
 
 
 
-// import mon_cv from "../assets/images/CV_Sachiyo_S.pdf";
+import pdfCV from "../assets/images/CV_Sachiyo_S.pdf";
 
 
 const images = {
-    services_img_1, services_img_2, services_img_3, services_img_4,work_img_1, work_img_2, work_img_3, work_img_4, work_img_5, work_img_6, work_img_7, work_img_8, work_img_9, work_img_10, work_img_11, work_img_12,
+    services_img_1, services_img_2, services_img_3, services_img_4,work_img_1, work_img_2, work_img_3, work_img_4, work_img_5, work_img_6, work_img_7, work_img_8, work_img_9, work_img_10, work_img_11, work_img_12, pdfCV
 }
 export default images;

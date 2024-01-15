@@ -2,10 +2,20 @@ import React from "react";
 import "./Services.css";
 import { services } from "../../constants/data";
 import { FaFileAlt } from "react-icons/fa";
-// import { Document, Page } from "react-pdf";
 
 const Services = () => {
-  const cvFilePath = "./src/assets/images/CV_Sachiyo_S.pdf";
+  const pdfCV = '../src/assets/images/CV_Sachiyo_S.pdf';
+
+  const onButtonClick = () => {
+    const pdfCV = "../src/assets/images/CV_Sachiyo_S.pdf";
+    const link = document.createElement("CV_Sachiyo_S.pdf");
+    link.href = pdfCV;
+    link.download = "CV_Sachiyo_S.pdf"; // specify the filename
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+    alert('click', pdfCV)
+};
 
   return (
     <div className="services section-p" id="services">
@@ -17,18 +27,13 @@ const Services = () => {
             </h3>
             <p className="text">
               Je vous presente mon parcours. <br />
-              Voici mon CV{" "}
-              {/* <Document file={cvFilePath}>
-                <Page pageNumber={1} />
-                <FaFileAlt />
-              </Document> */}
-              <a
-                href= {cvFilePath}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <FaFileAlt />
-              </a>
+              {/* Voici mon CV{" "} */}
+              {/* <a href={pdfCV} target="_blank" rel="noopener noreferrer">
+                <FaFileAlt  onClick={onButtonClick}/> */}
+                {/* <button onClick={onButtonClick}>
+                    Download PDF
+                </button> */}
+              {/* </a> */}
             </p>
           </div>
 

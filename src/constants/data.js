@@ -1,5 +1,11 @@
 import images from "./images"
 
+const document = [
+    {
+    doc1: `${images.pdfCV}`,
+    }
+]   
+
 const services = [
     {
         id:1,
@@ -145,4 +151,4 @@ const loisirs = [
     },
 ];
 
-export { services, works, loisirs}
+export { document, services, works, loisirs}

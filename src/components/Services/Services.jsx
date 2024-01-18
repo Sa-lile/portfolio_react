@@ -2,21 +2,10 @@ import React from "react";
 import "./Services.css";
 import { services } from "../../constants/data";
 import { FaFileAlt } from "react-icons/fa";
+import MonCV from "../../assets/images/CV_Sachiyo_SABLE.pdf";
+import { Link } from "react-router-dom";
 
 const Services = () => {
-  const pdfCV = '../src/assets/images/CV_Sachiyo_S.pdf';
-
-  const onButtonClick = () => {
-    const pdfCV = "../src/assets/images/CV_Sachiyo_S.pdf";
-    const link = document.createElement("CV_Sachiyo_S.pdf");
-    link.href = pdfCV;
-    link.download = "CV_Sachiyo_S.pdf"; // specify the filename
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
-    alert('click', pdfCV)
-};
-
   return (
     <div className="services section-p" id="services">
       <div className="container">
@@ -26,14 +15,21 @@ const Services = () => {
               mon<span className="text-dark">parcours</span>
             </h3>
             <p className="text">
-              Je vous presente mon parcours. <br />
-              {/* Voici mon CV{" "} */}
+              Je vous presente mon parcours. 
+              <Link
+                to={MonCV}
+                download="Example-PDF-document"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <button class="button">Download CV</button>
+              </Link><br />
               {/* <a href={pdfCV} target="_blank" rel="noopener noreferrer">
-                <FaFileAlt  onClick={onButtonClick}/> */}
-                {/* <button onClick={onButtonClick}>
+                <FaFileAlt  onClick={onButtonClick}/> 
+                <button onClick={onButtonClick}>
                     Download PDF
-                </button> */}
-              {/* </a> */}
+                </button> 
+              </a> */}
             </p>
           </div>
 

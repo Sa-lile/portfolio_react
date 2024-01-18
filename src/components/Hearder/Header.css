@@ -21,6 +21,10 @@
     font-size: 4rem;
     color: var(--orange-color);
 }
+.text-grey {
+    margin-top: 2rem;
+    max-width: 800px;
+}
 .header .btn-groups{
     margin-top: 4.8rem;
 }

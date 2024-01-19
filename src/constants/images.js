@@ -17,7 +17,7 @@ import work_img_12 from "../assets/images/Rosace.png";
 
 
 
-import pdfCV from "../assets/images/CV_Sachiyo_S.pdf";
+import pdfCV from "../assets/images/CV_Sachiyo_SABLE.pdf";
 
 
 const images = {

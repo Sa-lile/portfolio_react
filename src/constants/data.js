@@ -93,9 +93,9 @@ const works = [
     {
         image: `${images.work_img_9}`,
         title: "Mon projet personnel",
-        comment: "Site de restaurant : Mon prémier site",   
-        site: "https://sa-lile.github.io/ExoNum1_resto/",
-        git:"https://github.com/Sa-lile/ExoNum1_resto",
+        comment: "App La bonne affaire : Angular & TypeScript & Bootstrap",   
+        site: "https://app-angular-ten.vercel.app/",
+        git:"https://github.com/Sa-lile/app_Angular",
     },
     {
         image: `${images.work_img_10}`,
@@ -118,6 +118,13 @@ const works = [
         site: "https://sa-lile.github.io/304_Rosace/",
         git:"https://github.com/Sa-lile/304_Rosace",
     },
+     // {
+    //     image: `${images.work_img_9}`,
+    //     title: "Mon projet personnel",
+    //     comment: "Site de restaurant : Mon prémier site",   
+    //     site: "https://sa-lile.github.io/ExoNum1_resto/",
+    //     git:"https://github.com/Sa-lile/ExoNum1_resto",
+    // },
     // {
     //     image: `${images.work_img_11}`,
     //     title: "Mon projet personnel",

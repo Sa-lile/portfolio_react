@@ -118,6 +118,13 @@ const works = [
         site: "https://sa-lile.github.io/304_Rosace/",
         git:"https://github.com/Sa-lile/304_Rosace",
     },
+    {
+        image: `${images.work_img_13}`,
+        title: "Mon projet personnel",
+        comment: "SnapFace : Angular TS : ",   
+        site: "https://snapface-angular-nine.vercel.app/",
+        git:"https://github.com/Sa-lile/snapface-angular",
+    },
      // {
     //     image: `${images.work_img_9}`,
     //     title: "Mon projet personnel",

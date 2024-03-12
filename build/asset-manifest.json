@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.15d785fc.css",
-    "main.js": "/static/js/main.1b853524.js",
+    "main.js": "/static/js/main.3a7af34c.js",
     "static/media/header_backgrand.jpg": "/static/media/header_backgrand.afe328bec0aed213e433.jpg",
     "static/media/AnimationJS_GreenSock3.png": "/static/media/AnimationJS_GreenSock3.bfadd0982f4e199bb692.png",
     "static/media/site_vin.png": "/static/media/site_vin.d395b61d65c5029dc504.png",
     "static/media/projet d'Udemy_Kyoto.png": "/static/media/projet d'Udemy_Kyoto.4b1cc20b2b323560a81b.png",
-    "static/media/Site_resto.png": "/static/media/Site_resto.7c01d7535b87df2de313.png",
     "static/media/animation_js.png": "/static/media/animation_js.342e82148141be46b7e1.png",
     "static/media/site_ventePlante.png": "/static/media/site_ventePlante.7043e0714c3eec2f4491.png",
     "static/media/streamlit.png": "/static/media/streamlit.bfc8078fd5556964510c.png",
+    "static/media/labonneaffaire_Angular_Bootstrap.png": "/static/media/labonneaffaire_Angular_Bootstrap.94901bfb2bd9e8b15323.png",
     "static/media/e-commerce.png": "/static/media/e-commerce.07cd58a196dacf2cedc5.png",
     "static/media/CV_Sachiyo_SABLE.pdf": "/static/media/CV_Sachiyo_SABLE.e591386450065f06737e.pdf",
     "static/media/Rosace.png": "/static/media/Rosace.d525333a1815d53e197a.png",
@@ -22,10 +22,10 @@
     "static/media/services_img_2.svg": "/static/media/services_img_2.c4c4a3c1d29dc9b62ae991c422b53011.svg",
     "index.html": "/index.html",
     "main.15d785fc.css.map": "/static/css/main.15d785fc.css.map",
-    "main.1b853524.js.map": "/static/js/main.1b853524.js.map"
+    "main.3a7af34c.js.map": "/static/js/main.3a7af34c.js.map"
   },
   "entrypoints": [
     "static/css/main.15d785fc.css",
-    "static/js/main.1b853524.js"
+    "static/js/main.3a7af34c.js"
   ]
 }

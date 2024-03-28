@@ -19,7 +19,7 @@ import work_img_14 from "../assets/images/lensflares_3D.png";
 
 // import work_img_9 from "../assets/images/Site_resto.png";
 
-import pdfCV from "../assets/images/CV_Sachiyo_SABLE.pdf";
+import pdfCV from "../assets/images/CV_SachiyoSABLE.pdf";
 
 
 const images = {

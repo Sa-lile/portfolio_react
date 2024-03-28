@@ -93,7 +93,7 @@ const works = [
     {
         image: `${images.work_img_9}`,
         title: "Mon projet personnel",
-        comment: "App La bonne affaire : Angular & TypeScript & Bootstrap",   
+        comment: "App La bonne affaire : Angular & Bootstrap",   
         site: "https://app-angular-ten.vercel.app/",
         git:"https://github.com/Sa-lile/app_Angular",
     },

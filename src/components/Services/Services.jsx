@@ -2,7 +2,7 @@ import React from "react";
 import "./Services.css";
 import { services } from "../../constants/data";
 // import { FaFileAlt } from "react-icons/fa";
-import MonCV from "../../assets/images/CV_Sachiyo_SABLE.pdf";
+import MonCV from "../../assets/images/CV_SachiyoSABLE.pdf";
 import { Link } from "react-router-dom";
 
 const Services = () => {

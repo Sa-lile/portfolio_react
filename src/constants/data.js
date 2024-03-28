@@ -121,9 +121,16 @@ const works = [
     {
         image: `${images.work_img_13}`,
         title: "Mon projet personnel",
-        comment: "SnapFace : Angular TS : ",   
+        comment: "SnapFace : Angular ",   
         site: "https://snapface-angular-nine.vercel.app/",
         git:"https://github.com/Sa-lile/snapface-angular",
+    },
+    {
+        image: `${images.work_img_14}`,
+        title: "Mon projet personnel",
+        comment: "3D LensFlares web site : Three.js",   
+        site: "https://3-d-website-three-js-indol.vercel.app/",
+        git:"https://github.com/Sa-lile/3D_website_three.js",
     },
      // {
     //     image: `${images.work_img_9}`,

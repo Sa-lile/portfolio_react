@@ -100,9 +100,9 @@ const works = [
     {
         image: `${images.work_img_10}`,
         title: "Mon projet personnel",
-        comment: "To do list : Python3 & React",   
+        comment: "To do list : Python3 & React & daisyUI ",   
         site: "",
-        git:"https://github.com/Sa-lile/Todo-List_python_react",
+        git:"https://github.com/Sa-lile/TodoList_Python3_React/tree/main",
     },
     {
         image: `${images.work_img_11}`,
